@@ -1,7 +1,10 @@
 ```markdown
 # 🌟 Versatile PHP Framework
 
-Versatile PHP Framework is a lightweight, highly flexible, and beginner-friendly PHP MVC framework built for speed, simplicity, and scalability. Whether you're building small projects or scaling up to larger applications, Versatile PHP provides the perfect foundation to create robust web solutions.
+Versatile PHP Framework is a lightweight, highly flexible, and beginner-friendly
+PHP MVC framework built for speed, simplicity, and scalability. Whether you're
+building small projects or scaling up to larger applications, Versatile PHP
+provides the perfect foundation to create robust web solutions.
 
 
  🚀 Why Choose Versatile PHP?
