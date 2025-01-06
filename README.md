@@ -210,4 +210,3 @@ Special thanks to the PHP community for inspiring this framework and to all cont
 Dive into web development with Versatile PHP Framework and experience the power of simplicity and flexibility. Clone the repo and start building amazing web applications in minutes!
 
 Happy coding! 🚀
-```
