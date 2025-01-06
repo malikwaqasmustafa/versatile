@@ -1,11 +1,6 @@
 ```markdown
 # 🌟 Versatile PHP Framework
 
-![PHP](https://img.shields.io/badge/PHP-Framework-blue?style=for-the-badge)
-![Version](https://img.shields.io/badge/Version-1.0.0-green?style=for-the-badge)
-![License](https://img.shields.io/github/license/yourusername/versatile-php-framework?style=for-the-badge)
-![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red?style=for-the-badge)
-
 Versatile PHP Framework is a lightweight, highly flexible, and beginner-friendly PHP MVC framework built for speed, simplicity, and scalability. Whether you're building small projects or scaling up to larger applications, Versatile PHP provides the perfect foundation to create robust web solutions.
 
 
